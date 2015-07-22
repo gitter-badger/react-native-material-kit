@@ -1,5 +1,7 @@
 # [Material Design](http://www.google.com/design/spec/material-design/introduction.html) components for [React Native](https://facebook.github.io/react-native)
 
+[![Join the chat at https://gitter.im/xinthink/react-native-material-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xinthink/react-native-material-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm](https://img.shields.io/npm/v/react-native-material-kit.svg)](https://www.npmjs.com/package/react-native-material-kit)
 [![react-native](https://img.shields.io/badge/react--native-v0.7.1-05A5D1.svg)](https://facebook.github.io/react-native "tested react-native version")
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://raw.githubusercontent.com/xinthink/react-native-material-kit/master/LICENSE.md "MIT")
